@@ -21,7 +21,6 @@ Understanding the limitations of step-by-step reasoning in current algorithms an
   - Includes `reasoning_collapse.png`  
     *Sample chart below shows solution steps vs. complexity across all puzzles, with visible collapse points.*
 
-  ![Reasoning Collapse Across Puzzles](reasoning_collapse.png)
 - **Annotated Replay:**  
   - Stepwise chain-of-thought replays for all puzzles, diagnosing incorrect or inefficient reasoning and making failure transparent.
 - **Metrics Table Sample:**
@@ -64,8 +63,9 @@ Understanding the limitations of step-by-step reasoning in current algorithms an
 
 ## Visuals
 
-- **Reasoning Collapse Dashboard:**  
-  (reasoning_collapse.png)  
+- **Reasoning Collapse Dashboard:**
+<img width="851" height="479" alt="reasoning_collapse" src="https://github.com/user-attachments/assets/f8e96454-c841-4159-b3d6-51678983e929" />
+
   *Demonstrates sharp collapse points and reasoning efficiency across classic puzzles.*
 
 - **Reasoning Trace Replay:**  
@@ -76,3 +76,48 @@ Understanding the limitations of step-by-step reasoning in current algorithms an
 ## How to Run
 
 1. **Clone the repository:**
+
+git clone https://github.com/rhishikumarayyappan/Reasoning-Collapse-Simulator.git
+
+cd Reasoning-Collapse-Simulator
+
+
+2. **Install requirements:**
+pip install matplotlib seaborn pandas numpy
+
+
+*(Or use the provided requirements.txt file)*
+
+3. **Launch the notebook:**
+jupyter notebook Reasoning_Collapse_Simulator.ipynb
+
+
+Or simply use Google Colab for easy execution with instant visual outputs.
+
+4. **Run all cells (Runtime → Run all):**
+- All puzzle environments are set up, replay and diagnostics enabled by default.
+- Visuals, metrics, and reasoning replays are generated automatically for every test.
+
+---
+
+## Tech Stack
+
+- Python
+- Matplotlib & Seaborn
+- Pandas & NumPy
+- Google Colab/Jupyter Notebook
+
+---
+
+## For Full Implementation & Research Insights
+
+- See the included notebook for all puzzle classes, replay logic, complexity ramp demos, and side-by-side comparisons.
+- Contributions welcome—add new puzzles, agent modes, or analytics for even deeper reasoning diagnostics.
+
+---
+
+**Questions? Interested in collaborating or benchmarking new AI agents? See the FAQ section in the notebook, or open an issue in the repository!**
+
+---
+
+*Visual file: `reasoning_collapse.png` should be placed in your repo and properly referenced in the README for best recruiter/researcher impact.*
