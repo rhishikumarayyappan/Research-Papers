@@ -19,7 +19,8 @@
 
 ## Visualisation
 
-![Token Use & Accuracy by Adaptive Difficulty](token_accuracy_adaptive_difficulty.png)
+<img width="989" height="490" alt="token_accuracy_adaptive_difficulty" src="https://github.com/user-attachments/assets/93d38a58-c006-4cba-9ccd-265c989cd8cc" />
+
 
 - **Token Use:** Flat across all difficulties, not adaptive—models waste compute on easy tasks.
 - **Accuracy:** Model fails to get correct answers at any difficulty in tested examples.
