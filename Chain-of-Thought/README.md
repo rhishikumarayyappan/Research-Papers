@@ -79,7 +79,10 @@ Understanding the limitations of step-by-step chain-of-thought reasoning in curr
 ## Visuals
 
 **Reasoning Collapse Dashboard:**  
+<img width="889" height="490" alt="reasoning_collapse" src="https://github.com/user-attachments/assets/e6601a8e-bb5e-4117-8f4b-4c38611f1f13" />
+
 _File:_ reasoning_collapse.png  
+
 Shows sharp collapse points and reasoning quality at varying complexities.
 
 **Reasoning Trace Replay:**  
@@ -127,5 +130,5 @@ Place `reasoning_collapse.png` in your repo and reference it in the README for b
 
 ---
 
-**Ready to advance AI reliability and demonstrate reasoning collapse in your portfolio, classroom, or interviews!**
+
 
