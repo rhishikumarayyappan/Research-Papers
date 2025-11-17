@@ -7,7 +7,7 @@
 
 A curated suite of cutting-edge projects exploring the boundaries of AI reasoning, reliability, and adaptive efficiency.  
 Each folder delivers a research-backed, recruiter-ready demonstration of model limits—complete with visual benchmarks, advanced diagnostics, and business impact narratives.  
-Perfect for recruiters, interviewers, research leads, and AI teams who care about explainability, risk, and efficient real-world deployment.
+Perfect for recruiters, interviewers, research leads, and AI teams who care about explainability, risk, and efficient real-world deployment.  
 
 ---
 
