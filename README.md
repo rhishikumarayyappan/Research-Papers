@@ -1,7 +1,7 @@
 # Research-Grade Reasoning & Collapse Benchmarks  
 **Author:** Rhishi Kumar Ayyappan  
 
----
+--- 
 
 ## Portfolio Overview
 
